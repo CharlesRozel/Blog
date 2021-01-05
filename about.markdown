@@ -16,3 +16,8 @@ The all-in price for the work referred to in the preceding paragraph is £998 (o
 eBooks are typeset using Scrivener and Sigil.
 Print books are typeset using Scrivener and LaTeX.
 Covers are designed by Pulp Web Design.
+
+
+
+[Quaystone Books](https://thrillers.pub)
+
