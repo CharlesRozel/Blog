@@ -21,4 +21,4 @@ categories:
 ##### The premises in Bow Street, from which the Runners had operated since the Fielding Brothers, was know as a Public Office. In 1792, the government set up seven more Public Offices in London to be run along the same lines as Bow Street. One of these new Public Offices was at Great Marlborough Street in the West End of London.
 ##### Henry Goddard, whose memoirs these are, was employed at Bow Street as a Patrol Constable from 1824 until he was promoted to be a Runner (Principal Officer) at Great Marlborough Street in 1827 and remained there until he transferred to Bow Street as a Runner in 1834. He remained a Runner until they were disbanded in 1839. He died in 1883.
 ***
-##### The Memoirs are available to purchase on Amazon and Google Play.
+##### The Memoirs are available to purchase on [Amazon](https://www.amazon.co.uk/Henry-Goddard-Memoirs-Street-Runner/dp/B08QS6KTWH) and [Google Play](https://play.google.com/store/books/details/Henry_Goddard_Henry_Goddard?id=zv8OEAAAQBAJ&hl=en).
