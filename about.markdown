@@ -19,5 +19,5 @@ Covers are designed by Pulp Web Design.
 
 
 
-[Quaystone Books](https://thrillers.pub)
+![Quaystone Logo](assets/QuaystoneLogo.png)[Quaystone Books](https://thrillers.pub)
 
