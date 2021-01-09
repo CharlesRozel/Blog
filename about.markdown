@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QuaystoneLogo.png
+title: Quaystone Books
 permalink: /about/
 ---
 
