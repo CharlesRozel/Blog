@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quaystone Books
+title: QuaystoneLogo.png
 permalink: /about/
 ---
 
@@ -19,5 +19,5 @@ Covers are designed by Pulp Web Design.
 
 
 
-[Quaystone Books](https://thrillers.pub)
+![Quaystone Logo](/Blog/assets/QuaystoneLogo.png)[Quaystone Books](https://thrillers.pub)
 
