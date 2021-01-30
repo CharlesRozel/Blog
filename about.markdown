@@ -11,7 +11,7 @@ permalink: /about/
 *     Publishing on Amazon, Google Play and Draft2Digital;
 *     Helping to promote the books on Goodreads.
 
-The all-in price for the work referred to in the preceding paragraph is £998 (or the equivalent in dollars or euros): half (£499) payable on commission and half (£499) when the book is published.
+The all-in price for the work referred to in the preceding paragraph is £298 (or the equivalent in dollars or euros): half (£149) payable on commission and half (£149) when the book is published.
 
 eBooks are typeset using Scrivener and Sigil.
 Print books are typeset using Scrivener and LaTeX.
