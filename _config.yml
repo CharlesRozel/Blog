@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Quaystone Books
+title: Charles Rozel
 email: charlesrozel@thrillers.pub
 description: >- # this means to ignore newlines until "baseurl:"
  A miscellaneous blog covering essential topics such as; wine, jazz, bourbon, vintage cars, LaTeX, fonts, typography, book production and writing thrillers.
