@@ -8,7 +8,7 @@ I used a MacBook Air with an M1 chip running Big Sur to download the _TexShop.ap
 
 The author of the _Novel Package_ stopped its development in or about 2018, but it still works.
 
-The _Novel Package_ is in a folder called _Novel_. Inside this folder is a folder called _Doc_ with the explanatory notes in a document called _novel-documentation.html_. The explanatory notes are an excellent general guide to how to typeset a book, and make clear that the _Novel Package_ is designed  for fiction and similar books such as a biography. You cannot use the package to produce an epub.
+The _Novel Package_ is in a folder called _Novel_. Inside this folder is a folder called _Doc_ with the explanatory notes in a document called _novel-documentation.html_. The explanatory notes are an excellent general guide on how to typeset a book, and make clear that the _Novel Package_ is designed  for fiction and similar books such as a biography. You cannot use the package to produce an epub.
 
 The _Novel_ folder contains a large number of other documents most of which are beyond me as I am not a programmer. I extracted the following code from the _Novel_ folder and adapted it for my novel using trial and error.
 
