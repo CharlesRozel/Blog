@@ -198,14 +198,14 @@ START CODE
 
 END OF CODE
 
-If you run the above code in _TextShop_ it should produce a PDF.
+If you run the above code in _TexShop_ it should produce a PDF.
 Remember to use _LuaLaTeX_ (not LaTeX) from the dropdown menu in TexShop.
 
 You can then adapt the code to typeset your book.
 
 The front pages of the book and the first page of a chapter, by tradition, do not have a header or footer or page numbers. In the code, second and subsequent chapter-pages have page numbers and the author's name is on the verso page and the book title is on the recto page.
 
-I published _Dead Guy_ on Amazon in epub format using Vellum and in paperback format using Scrivener. I used the _Novel Package_ to produce the hardback. To date, I have typeset one other book using the _Novel Package_ being _Richmond: Scenes in the Life of a Bow Street Runner_. I now intend to typeset most of my books using the _Novel Package_ which I find easier than the Scrivener compiler. 
+I published [Dead Guy](https://www.amazon.co.uk/dp/1919625704/) on Amazon in epub format using Vellum and in paperback format using Scrivener. I used the _Novel Package_ to produce the hardback edition. To date, I have typeset one other book using the _Novel Package_ being [Richmond: Scenes in the Life of a Bow Street Runner](https://www.amazon.co.uk/dp/B0977BY6NP/). I now intend to typeset most of my books using the _Novel Package_ which I find easier than the Scrivener compiler. 
 
 If you have any problems or questions send me an email.
 
