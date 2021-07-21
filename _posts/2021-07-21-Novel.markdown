@@ -4,7 +4,7 @@ title:  "How I typeset a novel called Dead Guy using LaTeX"
 date:   2021-07-21
 categories:
 ---
-I used a MacBook Air with an M1 chip running Big Sur to download the _TexShop.app_ and the _Novel Package_ from [CTAN].
+I used a MacBook Air with an M1 chip running Big Sur to download the _TexShop.app_ and the _Novel Package_ from [CTAN](https://www.ctan.org).
 
 The author of the _Novel Package_ stopped its development in or about 2018, but it still works.
 
@@ -201,9 +201,11 @@ END OF CODE
 If you run the above code in _TextShop_ it should produce a PDF.
 Remember to use _LuaLaTeX_ (not LaTeX) from the dropdown menu in TexShop.
 
-You can then adapt the code to produce your book.
+You can then adapt the code to typeset your book.
 
-I published _Dead Guy_ on Amazon in epub format using Vellum and in paperback format using Scrivener. I used the _Novel Package_ to produce the hardback. To date, I have produced one other book using the Novel Package being _Richmond: Scenes in the Life of a Bow Street Runner_. I now intend to produce most of my books using the _Novel Package_.
+The front pages of the book and the first page of a chapter, by tradition, do not have a header or footer or page numbers. In the code, second and subsequent chapter-pages have page numbers and the author's name is on the verso page and the book title is on the recto page.
+
+I published _Dead Guy_ on Amazon in epub format using Vellum and in paperback format using Scrivener. I used the _Novel Package_ to produce the hardback. To date, I have typeset one other book using the _Novel Package_ being _Richmond: Scenes in the Life of a Bow Street Runner_. I now intend to typeset most of my books using the _Novel Package_ which I find easier than the Scrivener compiler. 
 
 If you have any problems or questions send me an email.
 
