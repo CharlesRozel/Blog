@@ -6,6 +6,8 @@ categories:
 ---
 I used a MacBook Air with an M1 chip running Big Sur to download the _TexShop.app_ and the _Novel Package_ from [CTAN](https://www.ctan.org).
 
+You will also need the _Libertinus_ font set, the _EB Garamond_ font and the _QTMagicMarker_ font on your computer. The three fonts do not have licensing restrictions and can be downloaded from [CTAN](https://www.ctan.org). The _Libertinus_ font collection is essential because it is built into the _Novel Package_. I use _EB Garamond_ for body text: it is specified in the curly brackets under the heading GENERAL FONTS. The _QTMagicMarker_ is the font I use on the title page. You can use a different font if you change _{QTMagicMarker}_ to _{YourChoiceFont}_ under the heading CUSTOM FONTS. 
+
 The author of the _Novel Package_ stopped its development in or about 2018, but it still works.
 
 The _Novel Package_ is in a folder called _Novel_. Inside this folder is a folder called _Doc_ with the explanatory notes in a document called _novel-documentation.html_. The explanatory notes are an excellent general guide on how to typeset a book, and make clear that the _Novel Package_ is designed  for fiction and similar books such as a biography. You cannot use the package to produce an epub.
