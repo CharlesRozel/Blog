@@ -10,4 +10,4 @@ So, were you entitled to use Garamond in your novel without fear of hearing from
 You will note that Monotype refers to its Garamond font as software. Software is protected by copyright and so using a font without permission is an infringement of the owner’s copyright in it.
 Above, I refer to a print book, not to an ebook. The Monotype licence also says; “This font may be embedded in documents and temporarily loaded on the remote system.” Note the word temporarily. This word means that you would not be licensed to install or embed the Monotype Garamond font in your ebook.
 There are several fonts which include Garamond in their name, each being slightly different and owned by various licence holders. My favourite font, and the one I use most for body text in print books, is called EB Garamond. It is the copyright of Georg A. Duffner, and licensed under the SIL Open Font License, and free to use for commercial purposes.
-As you might have gleaned already, font licensing is so complicated that it could be described as a ‘labyrinthine nightmare’. 
+As you might have gleaned, font licensing is so complicated that it could be described as a ‘labyrinthine nightmare’. 
