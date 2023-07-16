@@ -10,10 +10,6 @@ Say, you have written a novel to self-publish: a commercial activity. You used G
 
 PCs and Linux have similar ‘font books’.
 
-Say, you have written a novel to self-publish: a commercial activity. You used Garamond for the body text in your paperback edition. Garamond was installed when you bought your Mac laptop, brand new. An app called Font Book on your Mac has information about the licence of each font installed with the Mac operating system. The license agreement for Garamond in Font Book includes the words; “This typeface is the property of Monotype…your use of this software is limited to your workstation for your own publishing use.”
-
-PCs and Linux have similar ‘font books’.
-
 Your novel is a best seller and you are now a well known author. Monotype will now have heard of you.
 So, were you entitled to use Garamond in your novel without fear of hearing from Monotype or their lawyers. The answer is ‘yes’ if you used the computer on which the Monotype version of Garamond was installed by the manufacturer; but not if you transfer the font to another computer (“your use of this software is limited to your workstation”). Also, the owner of the computer is the only person licensed to use the Garamond font (“for your own publishing use”).
 
