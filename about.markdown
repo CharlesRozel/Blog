@@ -19,5 +19,5 @@ Covers are designed by Quaystone Books.
 
 
 
-![Quaystone Logo](assets/QuaystoneLogo.png)[Quaystone Books](https://thrillers.pub)
+![Quaystone Logo](assets/QuaystoneLogo.png)[Quaystone Books](https://www.quaystonebooks.com)
 
