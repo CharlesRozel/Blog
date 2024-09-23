@@ -21,7 +21,7 @@
 title: Charles Rozel
 email: charles@quaystonebooks.com
 description: >- # this means to ignore newlines until "baseurl:"
- A miscellaneous blog covering essential topics such as; LaTeX, fonts, typography, book production and writing thrillers.
+ A miscellaneous blog covering essential topics such as; LaTeX, fonts, typography, book production and writing comedy thrillers.
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://www.quaystonebooks.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
