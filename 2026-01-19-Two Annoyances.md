@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two Annoyances"
-date:   2026-01-19
+date:   2026-01-19-Two-Annoyances.md
 categories:
 ---
 ## I have been selling books on Amazon for ten years. In that time I have made one particularly annoying mistake more times than I care to remember; I have probably made many more mistakes but this is the one that has annoyed me the most.
