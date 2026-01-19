@@ -1,5 +1,11 @@
-I have been selling books on Amazon for ten years. In that time I have made one particularly annoying mistake more times than I care to remember; I have probably made many more mistakes but this is the one that has annoyed me the most.
+---
+layout: post
+title:  "Two Annoyances"
+date:   2026-01-19
+categories:
+---
+## I have been selling books on Amazon for ten years. In that time I have made one particularly annoying mistake more times than I care to remember; I have probably made many more mistakes but this is the one that has annoyed me the most.
 
-The mistake is not to ensure that any subtitle is the same for both the epub and print versions. You are making the same mistake if you put a subtitle for an epub but not for the print book. If there are differences in the subtitles KDP will not link the versions which will probably result in lost sales. If you make this mistake you can partially rectify it by changing the subtitle of the epub so that it matches the subtitle of the print book. However, you cannot rectify the mistake by trying to make the subtitle of the print book the same as the epub; Amazon will not let you do this.
+## The mistake is not to ensure that any subtitle is the same for both the epub and print versions. You are making the same mistake if you put a subtitle for an epub but not for the print book. If there are differences in the subtitles KDP will not link the versions which will probably result in lost sales. If you make this mistake you can partially rectify it by changing the subtitle of the epub so that it matches the subtitle of the print book. However, you cannot rectify the mistake by trying to make the subtitle of the print book the same as the epub; Amazon will not let you do this.
 
-When I write a thriller, I find it particularly annoying that KDP will not print a paperback size 5.06" × 7.81" on cream paper but only on white paper. Traditionally, cream paper is used for thrillers. 
+## When I write a thriller, I find it particularly annoying that KDP will not print a paperback size 5.06" × 7.81" on cream paper but only on white paper. Traditionally, cream paper is used for thrillers. 
