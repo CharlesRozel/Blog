@@ -65,7 +65,7 @@ If you have a problem using the template send me a message and I will try to hel
 	[]   
 	\usepackage{fontspec}
 	\newfontfamily\bangers{Bangers}
-	\setmainfont{Crimson Pro}
+	\setmainfont{EB Garamond}
 	\begin{document}
 	\frontmatter
 	\newpage
