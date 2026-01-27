@@ -14,15 +14,13 @@ LaTeX produces plaintext documents, which means it would be very difficult, if n
 
 LaTeX does the formatting and leaves the content to you.
 
-You can copy the code from the template or download the code from [quaystonebooks.com][1]
-
 You do not need to understand the code, but you will need a free LaTeX editor to process the code.
 
 Use Google (or your favourite search engine) to find a free editor for Windows, Mac or Linux.
 
 A free editor called [TexStudio][2] is recommended for Windows.
 
-I use Macs and a free editor called [TeXShop](), which is also recommended for Linux users.
+I use Macs and a free editor called [TeXShop][3], which is also recommended for Linux users.
 
 If you are a programmer you can use VSCode or Vim.
 
@@ -127,6 +125,7 @@ If you have a problem using the template send me a message and I will try to hel
 
 [1]:	https://www.quaystonebooks.com
 [2]:	https://www.texstudio.org
+[3]:	https://pages.uoregon.edu/koch/texshop
 [4]:	https://www.overleaf.com
 [5]:	https://crixet.com
 [6]:	https://fonts.google.com
