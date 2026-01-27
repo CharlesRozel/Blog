@@ -14,7 +14,7 @@ LaTeX produces plaintext documents, which means it would be very difficult, if n
 
 LaTeX does the formatting and leaves the content to you.
 
-You can copy the code from the template or download the code from [QuaystoneBooks.com][1]
+You can copy the code from the template or download the code from [quaystonebooks.com][1]
 
 You do not need to understand the code, but you will need a free LaTeX editor to process the code.
 
@@ -125,7 +125,7 @@ If you have a problem using the template send me a message and I will try to hel
 
 
 
-[1]:	https:%5C%5Cwww.quaystonebooks.com
+[1]:	https://www.quaystonebooks.com
 [2]:	https://www.texstudio.org
 [4]:	https://www.overleaf.com
 [5]:	https://crixet.com
