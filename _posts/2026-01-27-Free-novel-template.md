@@ -26,7 +26,7 @@ If you are a programmer you can use VSCode or Vim.
 
 Alternatively, you can use an online editor such as [Overleaf][4] or [Crixit][5] both of which oﬀer a free plan and tutorials.
 
-The text editor you choose will offer different settings to process the typesetting; you should choose as XeLaTeX. This setting allows you to use the two fonts mentioned in the next sentence.
+The text editor you choose will offer different settings to process the typesetting; you should choose XeLaTeX. This setting allows you to use the two fonts mentioned in the next sentence.
 
 The fonts used in the templates are EB Garamond for the body text and Bangers for the title text. both of which fonts can be downloaded from [Google Fonts][6] and are licensed for commercial use
 .
