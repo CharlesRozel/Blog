@@ -1,4 +1,4 @@
-The Golden Canon
+### The Golden Canon
 
 Jan Tschichold, the legendary typographer and book designer, described the Golden Canon as a method to produce the perfect book.
 
@@ -6,12 +6,12 @@ A page in the perfect book should be overlaid, notionally, with a 9 x 9 grid so 
 
 On a recto page the textblock is then positioned 1/9th from the top and the inside of the page and 2/9th from the outside and bottom of the page. The positioning is reversed on a verso page.
 
-The ratio of the grid is then 2:3. There is harmonious because the height of the textblock equals the width of the page.
+The ratio of the grid is then 2:3. There is harmony because the height of the textblock equals the width of the page.
 
 I had to design a range of bullet point booklets, on the subject of UK employment law, for Worklaw, a company which advises employers. It occurred to me that such a boring topic might be more readable if the booklets were designed to follow the Golden Canon.
 
 The booklets are 6 by 9 inches. 
-I did not change the font from Computer Modern which, I think, can look fine in non-fiction.
+I did not change the font from Computer Modern which can look fine in non-fiction.
 
 Below, is the LaTeX code to print two pages of one of the booklets.
 
@@ -92,9 +92,9 @@ Below, is the LaTeX code to print two pages of one of the booklets.
 	take professional advice as a matter of urgency. 
 	\end{document}
 
-I have a confession to make: the client said a purchaser might think thay were being sold too much white space.so I had to change the geometry to:
+I have a confession to make: the client said a purchaser might think thry were being sold too much white space so I had to change the geometry to:
 
 top=1in, outer=1.333in, bottom=2in, inner=1in.
 
-Albeit based on a modified version of the Golden Canon, the design still looks good and the print versions outsell the epub versions.
+Although based on a modified version of the Golden Canon, the design still looks good and the print versions outsell the ebook versions.
 
