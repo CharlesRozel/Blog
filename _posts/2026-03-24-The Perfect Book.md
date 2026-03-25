@@ -92,7 +92,7 @@ Below, is the LaTeX code to print two pages of one of the booklets.
 	take professional advice as a matter of urgency. 
 	\end{document}
 
-I have a confession to make: the client said a purchaser might think thry were being sold too much white space so I had to change the geometry to:
+I have a confession to make: the client said a purchaser might think they were being sold too much white space so I had to change the geometry to:
 
 top=1in, outer=1.333in, bottom=2in, inner=1in.
 
