@@ -17,9 +17,7 @@ Print books are typeset using Scrivener and LaTeX.
 
 The fee to design a cover is negotiable.
 
-![Quaystone Logo][image-1][Quaystone Books][1]
+[Quaystone Books][1]
 
 
 [1]:	https://www.quaystonebooks.com
-
-[image-1]:	assets/QuaystoneLogo.png
