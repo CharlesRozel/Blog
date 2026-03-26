@@ -15,7 +15,7 @@ The all-in price for the work referred to in the preceding paragraph is £99 (or
 eBooks are typeset using Scrivener and Sigil.
 Print books are typeset using Scrivener and LaTeX.
 
-The fee for for designing a cover is negotiable.
+The fee to design a cover is negotiable.
 
 ![Quaystone Logo][image-1][Quaystone Books][1]
 
