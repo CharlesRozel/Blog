@@ -3,7 +3,6 @@ layout: page
 title: about Charles Rozel
 permalink: /about Charles Rozel/
 ---
-Charles Rozel (Author)
 Charles Rozel is a British author and publishing professional known for writing comedy thrillers and historical crime fiction. He specialises in books featuring early law enforcement figures such as Bow Street Runners, and has authored or edited works like Dead Guy: A Comedy Thriller, Richmond: Scenes in the Life of a Bow Street Runner, and Henry Goddard: Memoirs of a Bow Street Runner. He also runs Quaystone Books, offering services in book typesetting, cover design, and publishing. 
 
 Rozel is an advocate for using LaTeX in book production and provides free novel templates for aspiring authors. His blog covers topics including typography, font licensing, and self-publishing. 
