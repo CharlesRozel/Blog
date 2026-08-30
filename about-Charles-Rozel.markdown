@@ -14,3 +14,13 @@ Eccentric characters: From the womanising yet reluctant detective Peel to glamor
 Absurdist situations: The plot weaves in farcical elements like a serial prankster known as "the Scarecrow" and a body discovered on a Guy Fawkes bonfire. 
 Genre fusion: Combines traditional detective mystery with satire, romance, and espionage (e.g., MI5 involvement and undercover soldiers). 
 British coastal setting: The fictional town of Quaystone provides a quaint, insular atmosphere that amplifies the humour and eccentricity.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T9FP421H4D');
+</script>

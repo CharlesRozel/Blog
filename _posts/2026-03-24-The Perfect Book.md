@@ -98,3 +98,13 @@ top=1in, outer=1.333in, bottom=2in, inner=1in.
 
 Although based on a modified version of the Golden Canon, the design still looks good and the print versions outsell the ebook versions.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T9FP421H4D');
+</script>
+

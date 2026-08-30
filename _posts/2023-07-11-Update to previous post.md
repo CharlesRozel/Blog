@@ -1,1 +1,11 @@
 My previous post was about the Novel Package on CTAN which was not working correctly.  However, this package is working again thanks to an update in May by Robert Allgeyer, the author. As the author says, this package is designed for for detective novels, science fiction, and short stories. The package can be downloaded in a zip file from GitHub. The easiest way to get to grips with the package is to read the page called ‘novel-documentation.html’. It is, without a doubt, the best package (LaTeX or otherwise) for typesetting novels.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T9FP421H4D');
+</script>

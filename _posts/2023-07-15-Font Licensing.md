@@ -19,3 +19,13 @@ Above, I refer to a print book, not to an ebook. The Monotype licence also says;
 There are several fonts which include Garamond in their name, each being slightly different and owned by various licence holders. My favourite font, and the one I use most for body text in print books, is called EB Garamond. It is the copyright of Georg A. Duffner, and licensed under the SIL Open Font License, and free to use for commercial purposes.
 
 As you might have gleaned, font licensing is so complicated that it could be described as a ‘labyrinthine nightmare’.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T9FP421H4D');
+</script>

@@ -129,3 +129,13 @@ If you have a problem using the template send me a message and I will try to hel
 [4]:	https://www.overleaf.com
 [5]:	https://crixet.com
 [6]:	https://fonts.google.com
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T9FP421H4D');
+</script>

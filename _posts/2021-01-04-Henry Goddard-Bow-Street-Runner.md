@@ -22,3 +22,13 @@ categories:
 ##### Henry Goddard, whose memoirs these are, was employed at Bow Street as a Patrol Constable from 1824 until he was promoted to be a Runner (Principal Officer) at Great Marlborough Street in 1827 and remained there until he transferred to Bow Street as a Runner in 1834. He remained a Runner until they were disbanded in 1839. He died in 1883.
 ***
 ##### The Memoirs are available to purchase on [Amazon](https://www.amazon.co.uk/Henry-Goddard-Memoirs-Street-Runner/dp/B08QS6KTWH) and [Google Play](https://play.google.com/store/books/details/Henry_Goddard_Henry_Goddard?id=zv8OEAAAQBAJ&hl=en).
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T9FP421H4D');
+</script>
