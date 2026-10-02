@@ -9,12 +9,3 @@ Dead Guy exemplifies this style by opening with a seemingly supernatural voice f
 Peel is aided in his cases by Sarah Wilde, a glamorous lawyer from London. They have a love-hate relationship, complicated by the arrival on the scene of Captain Rupert Sutherland, a dashing Special Forces officer. Sutherland and his platoon - the argumentative Sergeant Dibbs, the combative Sapper Napper and Corporal McDuff, the Glaswegian communications specialist - are there to help in the hunt for a serial killer. Peel and Sutherland become rivals for Sarah's affection. 
 The third novel featuring Peel and Sarah Wilde will be published in 2027.
  “Murder is not funny but these books are.”
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T9FP421H4D');
-</script>
