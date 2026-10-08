@@ -30,7 +30,7 @@ github_username:  jekyll
 remote_theme: jekyll/minima
 plugins:
 - jekyll-feed
-- kekyll-remote-theme
+- jekyll-remote-theme
 # Google Analytics
 google_analytics: G-T9FP421H4D
 
