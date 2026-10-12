@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Blog/" rel="alternate" type="text/html" /><updated>2026-10-12T12:07:58+01:00</updated><id>http://localhost:4000/Blog/feed.xml</id><title type="html">Charles’ Blog</title><subtitle>A miscellaneous blog covering essential topics such as; LaTeX, fonts, typography, book production and writing comedy thrillers.</subtitle><entry><title type="html">Font Licensing In The Usa</title><link href="http://localhost:4000/Blog/2026/10/08/Font-Licensing-in-the-USA.html" rel="alternate" type="text/html" title="Font Licensing In The Usa" /><published>2026-10-08T00:00:00+01:00</published><updated>2026-10-08T00:00:00+01:00</updated><id>http://localhost:4000/Blog/2026/10/08/Font-Licensing-in-the-USA</id><content type="html" xml:base="http://localhost:4000/Blog/2026/10/08/Font-Licensing-in-the-USA.html">&lt;h3 id=&quot;font-licensing-for-authors&quot;&gt;Font Licensing for Authors&lt;/h3&gt;
+
+&lt;p&gt;Below is a chapter from my ePub called &lt;em&gt;Font Licensing for Authors&lt;/em&gt; available on Amazon. The chapter is headed: &lt;em&gt;Font Licensing in the USA&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The US is one of the few countries that does not protect typeface design under copyright law. To understand why this is so we need to look at The Copyright Act of 1976, which is still current law in the US, and extends copyright protection to pictorial, graphic and sculptural works. Such works shall include works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned.&lt;/p&gt;
+
+&lt;p&gt;The word &lt;em&gt;utilitarian&lt;/em&gt; is the clue to why typeface design is not copyrightable in the US. A design that is also a useful article is considered &lt;em&gt;a pictorial, graphic, or sculptural work only to the extent that such design incorporates pictorial, graphic, or sculptural features that can be identified separately from and are capable of existing independently of the utilitarian aspects of the article.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Typefaces and fonts are inherently utilitarian; they comprises letters or glyphs which form words.&lt;/p&gt;
+
+&lt;p&gt;An article is considered useful if it has an intrinsic utilitarian function. If you stretch a point and consider a typeface to be an article it is a useful article.&lt;/p&gt;
+
+&lt;p&gt;The function of a font is to produce text which can be read. The reader will notice if the the font is Garamond or Palatino.&lt;/p&gt;
+
+&lt;p&gt;In 1979, the judgment in the case of Eltra Corp. v. Ringer was that typefaces are industrial designs which cannot exist independently as works of art.&lt;/p&gt;
+
+&lt;p&gt;The Copyright Act in 1976 and the Eltra case predate the arrival of desktop publishing in the eighties.&lt;/p&gt;
+
+&lt;p&gt;In 1988 the US Copyright Office confirmed that the design of a computerised typeface cannot be copyrighted.&lt;/p&gt;
+
+&lt;p&gt;However, in 1992 the Copyright Office said in a statement that programs designed for generating a typeface may involve original computer instructions entitled to protection under the Copyright Act: meaning that it was the software program which produced the font which could be copyright protected; not the typeface itself. Whether the software program could be protected depended on the degree of originality of the code written by the programmer.&lt;/p&gt;
+
+&lt;p&gt;In 1988 fonts were bitmapped (think of a rasterised photograph) whereas, by 1992, fonts were becoming scalable (think of vectors and Bézier curves) and there was more scope for originality in the code that produced a font.&lt;/p&gt;
+
+&lt;p&gt;The case of Adobe v. Southern Software, in 1998, held that the choice of control points (Bézier curves etc) by the programmer could be classified.&lt;/p&gt;
+
+&lt;p&gt;Font foundries and font-owners relied on the Adobe case to argue that font software could be copyrighted.&lt;/p&gt;
+
+&lt;p&gt;US copyright law distinguishes between typeface design and font software and does not say that typeface design is not copyrightable. As mentioned above, font software may be protected by copyright if the computer program that generates the typeface design is original enough.&lt;/p&gt;
+
+&lt;p&gt;From about 2018, the US Copyright Office began to reject applications to copyright fonts.These rejections were considered in the 2023 case of Laatz v Zazzle. My understanding is that this was the first US court case which analysed the finding in the seminal case of Adobe v. Southern Software mentioned above.&lt;/p&gt;
+
+&lt;p&gt;A British font designer named Nicky Laatz claimed that Zazzle, an online market place in the US, had used her fonts without a licence. Laatz relied on the judgement in the Adobe case which said that choice of control points, curves etc, in the font software by the programer could be classified as an original work and could be copyrighted. However, the court’s judgement was that the Laatz case differed from the Adobe case because Adobe’s fonts were created using Adobe-created software, whereas Laatz did not create the software which made her fonts.&lt;/p&gt;
+
+&lt;p&gt;Some argue that this judgment means that typefaces (fonts) cannot be copyrighted in the US.&lt;/p&gt;
+
+&lt;p&gt;Monotype argues that that fonts can be copyrighted, and that the Adobe case is not different from the Laatz case because there is no distinction in the Copyright Act between proprietary (Adobe’s) and third party (Laatz’s) software.&lt;/p&gt;
+
+&lt;p&gt;Point to note: the judgement in the Laatz case is not binding on other cases involving the same question as to whether typefaces can be copyrighted.&lt;/p&gt;</content><author><name></name></author><summary type="html">Font Licensing for Authors</summary></entry><entry><title type="html">The perfect book</title><link href="http://localhost:4000/Blog/2026/03/24/The-Perfect-Book.html" rel="alternate" type="text/html" title="The perfect book" /><published>2026-03-24T00:00:00+00:00</published><updated>2026-03-24T00:00:00+00:00</updated><id>http://localhost:4000/Blog/2026/03/24/The%20Perfect%20Book</id><content type="html" xml:base="http://localhost:4000/Blog/2026/03/24/The-Perfect-Book.html">&lt;h3 id=&quot;the-golden-canon&quot;&gt;The Golden Canon&lt;/h3&gt;
+
+&lt;p&gt;Jan Tschichold, the legendary typographer and book designer, described the Golden Canon as a method to produce the perfect book.&lt;/p&gt;
+
+&lt;p&gt;A page in the perfect book should be overlaid, notionally, with a 9 x 9 grid so that the width is made up of 9 rows of 9 equal rectangles and the height is made up of 9 rows of 9 equal rectangles.&lt;/p&gt;
+
+&lt;p&gt;On a recto page the textblock is then positioned 1/9th from the top and the inside of the page and 2/9th from the outside and bottom of the page. The positioning is reversed on a verso page.&lt;/p&gt;
+
+&lt;p&gt;The ratio of the grid is then 2:3. There is harmony because the height of the textblock equals the width of the page.&lt;/p&gt;
+
+&lt;p&gt;I had to design a range of bullet point booklets, on the subject of UK employment law, for Worklaw, a company which advises employers. It occurred to me that such a boring topic might be more readable if the booklets were designed to follow the Golden Canon.&lt;/p&gt;
+
+&lt;p&gt;The booklets are 6 by 9 inches. 
+I did not change the font from Computer Modern which can look fine in non-fiction.&lt;/p&gt;
+
+&lt;p&gt;Below, is the LaTeX code to print two pages of one of the booklets.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;\documentclass[twoside,openany]{book}
+%\usepackage{showframe}
+\pagestyle{plain}
+\usepackage[paperwidth=6in, paperheight=9in, top=1in,
+outer=2in, bottom=2in, inner=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\usepackage{microtype}
+\usepackage[compact]{titlesec}
+\usepackage[none]{hyphenat}
+\usepackage{xspace}
+\setlist{nosep}
+\setlist[itemize]{leftmargin=*}
+\setlist[enumerate]{leftmargin=*}
+\begin{document}
+\newpage
+\section*{Defending}
+To defend a claim to an employment tribunal you need to fill
+out the response form (an ET3) and then organise the following: 
+\begin{itemize}
+\item relevant documents;
+\item written statements from any witnesses. 
+\end{itemize}
+That’s it!\\
+The rest of it is knowing a bit about how an employment
+tribunal operates. 
+\subsection*{Relevant documents}
+As a general rule, employment tribunals regard documents made
+at the time of the event in question (a contemporaneous
+document) as more reliable than what a witness says in
+evidence, particularly if the witness did not write their
+witness statement until many months after the event.
+As soon as an employer knows or suspects that they might face a
+claim to an employment tribunal they should collect together
+anything in writing, both 	printed and electronic, which might
+be relevant, including handwritten documents which have been
+typed up (they should keep both the original handwritten
+document and the typed copy).\\ 
+Some claims have few relevant documents, but the following will
+still be relevant: 
+\begin{itemize}
+\item the employee’s employment contract;
+\item the company’s written disciplinary procedure;
+\item previous disciplinary documents, if any. 
+\end{itemize}
+Other cases might involve hundreds of investigation documents. 
+\section*{Witness statements}
+It follows from the above that a witness should write up a
+statement of what they saw or heard.\\
+Employment tribunals used to be called industrial tribunals.\\ 
+Previously, an employment tribunal comprised an employment
+judge and 2 lay persons (\emph{lay person} meaning a person who
+is not a lawyer).\\
+Nowadays, most cases in an employment tribunal are decided by
+an employment judge sitting alone.\\ 
+However, some cases still require 2 lay persons in addition to
+the employment judge. For example, discrimination cases and
+\emph{whistleblowing} cases are heard by a judge and 2 lay
+persons. The lay persons are an employee (often a member a
+trade union) and an employer (often a member of an employer&apos;s
+organisation such as The Federation of Small Businesses).\\ 
+Employment tribunal procedure is designed to be less
+intimidating than in a court. For example, witnesses give
+evidence sitting at a table instead of standing in a witness
+box. However, employment tribunals have strict procedural rules
+with which both parties must comply. In particular, time limits
+laid down by the tribunal must be adhered to otherwise the
+party in default risks their case being dismissed and judgment
+given in favour of the other party.\\ 
+To keep this booklet as simple as possible we will assume that
+the parties comply with all time limits laid down by the
+tribunal, and that it is not necessary to consider such matters
+as \emph{unless orders}, \emph{strike-out applications}, etc.
+If any such matters do arise then the affected party should
+take professional advice as a matter of urgency. 
+\end{document}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I have a confession to make: the client said a purchaser might think they were being sold too much white space so I had to change the geometry to:&lt;/p&gt;
+
+&lt;p&gt;top=1in, outer=1.333in, bottom=2in, inner=1in.&lt;/p&gt;
+
+&lt;p&gt;Although based on a modified version of the Golden Canon, the design still looks good and the print versions outsell the ebook versions.&lt;/p&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">The Golden Canon</summary></entry><entry><title type="html">Free Novel Template</title><link href="http://localhost:4000/Blog/2026/01/27/Free-novel-template.html" rel="alternate" type="text/html" title="Free Novel Template" /><published>2026-01-27T00:00:00+00:00</published><updated>2026-01-27T00:00:00+00:00</updated><id>http://localhost:4000/Blog/2026/01/27/Free-novel-template</id><content type="html" xml:base="http://localhost:4000/Blog/2026/01/27/Free-novel-template.html">&lt;p&gt;Below is a LaTeX template which you copy and use to typeset your novel for free.&lt;/p&gt;
+
+&lt;p&gt;Just replace the body text and title text with your text.&lt;/p&gt;
+
+&lt;p&gt;If you are unfamiliar with LaTeX it is a computerised text-processing system, first developed by a mathematician, Donald Knuth, who called the system TeX. The name is written with a capital T, a lowercase e, and a capital X. It was further developed by another mathematician, Leslie Lamport, and is now called LaTeX.&lt;/p&gt;
+
+&lt;p&gt;Use LaTeX to print your book and you will be using the best computerised typesetting system.&lt;/p&gt;
+
+&lt;p&gt;You can print any document from a replica medieval manuscript to a flyer for a village fête.&lt;/p&gt;
+
+&lt;p&gt;Your book will look professional.&lt;/p&gt;
+
+&lt;p&gt;LaTeX produces plaintext documents, which means it would be very difficult, if not impossible, to hide malicious code in LaTeX.&lt;/p&gt;
+
+&lt;p&gt;LaTeX does the formatting and leaves the content to you.&lt;/p&gt;
+
+&lt;p&gt;You do not need to understand the code, but you will need a free LaTeX editor to process the code.&lt;/p&gt;
+
+&lt;p&gt;Use Google (or your favourite search engine) to find a free editor for Windows, Mac or Linux.&lt;/p&gt;
+
+&lt;p&gt;A free editor called &lt;a href=&quot;https://www.texstudio.org&quot;&gt;TexStudio&lt;/a&gt; is recommended for Windows.&lt;/p&gt;
+
+&lt;p&gt;I use Macs and a free editor called &lt;a href=&quot;https://pages.uoregon.edu/koch/texshop&quot;&gt;TeXShop&lt;/a&gt;, which is also recommended for Linux users.&lt;/p&gt;
+
+&lt;p&gt;If you are a programmer you can use VSCode or Vim.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, you can use an online editor such as &lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaf&lt;/a&gt; or &lt;a href=&quot;https://crixet.com&quot;&gt;Crixit&lt;/a&gt; both of which oﬀer a free plan and tutorials.&lt;/p&gt;
+
+&lt;p&gt;The text editor you choose will offer different settings to process the typesetting; you should choose XeLaTeX. This setting allows you to use the two fonts mentioned in the next sentence.&lt;/p&gt;
+
+&lt;p&gt;The fonts used in the templates are EB Garamond for the body text and Bangers for the title text. both of which fonts can be downloaded from &lt;a href=&quot;https://fonts.google.com&quot;&gt;Google Fonts&lt;/a&gt; and are licensed for commercial use
+.
+If you have a problem using the template send me a message and I will try to help.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;\documentclass[openany]{book}
+\usepackage[paperwidth=5.5in, paperheight=8.5in,
+top=0.75in, outer=0.8in, bottom=1in, inner=1in]
+{geometry}
+\usepackage{xspace}
+\usepackage{microtype}
+\usepackage{graphicx,pifont}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[CE]{\bangers Book Title}
+\fancyhead[CO]{\rightmark}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\chaptermark}[1]
+{\markboth{}{\bangers{#1}}}
+\fancyfoot[C]{\thepage}
+\setlength{\headheight}{12pt}
+\setlength{\headsep}{12pt}
+\usepackage{titlesec}
+\usepackage{lettrine}
+\titlespacing*{\chapter}
+{0pt}      
+{60pt}     
+{40pt}     
+\titleformat{\chapter}[display]
+{}                              
+{}                               
+{0pt}                            
+{\centering\Huge\bangers} 
+[]   
+\usepackage{fontspec}
+\newfontfamily\bangers{Bangers}
+\setmainfont{EB Garamond}
+\begin{document}
+\frontmatter
+\newpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{120pt}
+{\Huge\bangers\scalebox{1.75}{Book Title}\\}
+\vspace{40pt}
+{\huge\bangers\scalebox{1.50}{ Book subtitle}\\}
+\vspace{45pt}
+{\LARGE\bangers\scalebox{1.25}{Your Author Name}}
+\vfill
+\newpage
+\thispagestyle{empty}
+\vspace*{140pt}
+{\LARGE\bangers Book Title}\\
+\vspace{8pt}
+{\small
+\copyright{} Your Author Name 2026\\
+all rights reserved.\\
+\vspace{0.04in}               
+\noindent\hfill\rule{0.5in}{0.4pt}\hfill
+\vspace{0.07in}\\
+All characters in this book are fictitious\\
+and any resemblance
+to real persons,\\living or dead,\\
+is entirely coincidental.\\
+\vspace{0.04in}               
+\noindent\hfill\rule{0.5in}{0.4pt}\hfill
+\vspace{0.07in}\\
+Imprint: Your Publishing Company\\
+ISBN: Your number}
+\end{center}
+\mainmatter
+\chapter{First Chapter}
+\vspace{-25pt}
+\lettrine[lines=3,
+loversize=0.2,
+findent=0.5em,
+nindent=0.2em,]{\bangers A}{olor} sit amet,
+consectetur adipiscing elit.
+\lipsum[1-10]
+\chapter{Second Chapter}
+\vspace{-25pt}
+\lettrine[lines=3,
+loversize=0.2,
+findent=0.5em,
+nindent=0.2em,]{\bangers B}{olor} sit amet,
+consectetur adipiscing elit. 
+\lipsum[1]
+\end{document}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">Below is a LaTeX template which you copy and use to typeset your novel for free.</summary></entry><entry><title type="html">Two Annoyances</title><link href="http://localhost:4000/Blog/2026/01/19/Two-Annoyances.html" rel="alternate" type="text/html" title="Two Annoyances" /><published>2026-01-19T00:00:00+00:00</published><updated>2026-01-19T00:00:00+00:00</updated><id>http://localhost:4000/Blog/2026/01/19/Two%20Annoyances</id><content type="html" xml:base="http://localhost:4000/Blog/2026/01/19/Two-Annoyances.html">&lt;h2 id=&quot;i-have-been-selling-books-on-amazon-for-ten-years-in-that-time-i-have-made-one-particularly-annoying-mistake-more-times-than-i-care-to-remember-i-have-probably-made-many-more-mistakes-but-this-is-the-one-that-has-annoyed-me-the-most&quot;&gt;I have been selling books on Amazon for ten years. In that time I have made one particularly annoying mistake more times than I care to remember; I have probably made many more mistakes but this is the one that has annoyed me the most.&lt;/h2&gt;
+
+&lt;h2 id=&quot;the-mistake-is-not-to-ensure-that-any-subtitle-is-the-same-for-both-the-epub-and-print-versions-you-are-making-the-same-mistake-if-you-put-a-subtitle-for-an-epub-but-not-for-the-print-book-if-there-are-differences-in-the-subtitles-kdp-will-not-link-the-versions-which-will-probably-result-in-lost-sales-if-you-make-this-mistake-you-can-partially-rectify-it-by-changing-the-subtitle-of-the-epub-so-that-it-matches-the-subtitle-of-the-print-book-however-you-cannot-rectify-the-mistake-by-trying-to-make-the-subtitle-of-the-print-book-the-same-as-the-epub-amazon-will-not-let-you-do-this&quot;&gt;The mistake is not to ensure that any subtitle is the same for both the epub and print versions. You are making the same mistake if you put a subtitle for an epub but not for the print book. If there are differences in the subtitles KDP will not link the versions which will probably result in lost sales. If you make this mistake you can partially rectify it by changing the subtitle of the epub so that it matches the subtitle of the print book. However, you cannot rectify the mistake by trying to make the subtitle of the print book the same as the epub; Amazon will not let you do this.&lt;/h2&gt;
+
+&lt;h2 id=&quot;when-i-write-a-thriller-i-find-it-particularly-annoying-that-kdp-will-not-print-a-paperback-size-506--781-on-cream-paper-but-only-on-white-paper-traditionally-cream-paper-is-used-for-thrillers&quot;&gt;When I write a thriller, I find it particularly annoying that KDP will not print a paperback size 5.06” × 7.81” on cream paper but only on white paper. Traditionally, cream paper is used for thrillers.&lt;/h2&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">I have been selling books on Amazon for ten years. In that time I have made one particularly annoying mistake more times than I care to remember; I have probably made many more mistakes but this is the one that has annoyed me the most.</summary></entry><entry><title type="html">Font licensing</title><link href="http://localhost:4000/Blog/2023/07/15/Font-Licensing.html" rel="alternate" type="text/html" title="Font licensing" /><published>2023-07-15T00:00:00+01:00</published><updated>2023-07-15T00:00:00+01:00</updated><id>http://localhost:4000/Blog/2023/07/15/Font%20Licensing</id><content type="html" xml:base="http://localhost:4000/Blog/2023/07/15/Font-Licensing.html">&lt;p&gt;All fonts are subject to a license of some sort; even ‘free’ fonts.&lt;/p&gt;
+
+&lt;p&gt;If you are using the fonts on your brand new computer for ‘personal use’ then you need not worry about  font licences.
+If you are using a second-hand computer (not brand new) then you should check that the fonts you are using were installed by the manufacturer. Your use of any font, installed subsequent to the purchase of the computer, brand new, might be in breach of that font’s licence.
+If you use a  font for commercial purpose then you need to be aware of the licence terms.&lt;/p&gt;
+
+&lt;p&gt;It is probably not an exaggeration to say that most people use the fonts on their computer without bothering about the licence. So why should you bother?&lt;/p&gt;
+
+&lt;p&gt;Say, you have written a novel to self-publish: a commercial activity. You used Garamond for the body text in your paperback edition. Garamond was installed when you bought your Mac laptop, brand new. An app called Font Book on your Mac has information about the licence of each font installed with the Mac operating system. The license agreement for Garamond in Font Book includes the words; “This typeface is the property of Monotype…your use of this software is limited to your workstation for your own publishing use.”&lt;/p&gt;
+
+&lt;p&gt;PCs and Linux have similar ‘font books’.&lt;/p&gt;
+
+&lt;p&gt;Your novel is a best seller and you are now a well known author. Monotype will now have heard of you.
+So, were you entitled to use Garamond in your novel without fear of hearing from Monotype or their lawyers. The answer is ‘yes’ if you used the computer on which the Monotype version of Garamond was installed by the manufacturer; but not if you transfer the font to another computer (“your use of this software is limited to your workstation”). Also, the owner of the computer is the only person licensed to use the Garamond font (“for your own publishing use”).&lt;/p&gt;
+
+&lt;p&gt;You will note that Monotype refers to its Garamond font as software. Software is protected by copyright and so using a font without permission is an infringement of the owner’s copyright in it.&lt;/p&gt;
+
+&lt;p&gt;Above, I refer to a print book, not to an ebook. The Monotype licence also says; “This font may be embedded in documents and temporarily loaded on the remote system.” Note the word temporarily. This word means that you would not be licensed to install or embed the Monotype Garamond font in your ebook.
+There are several fonts which include Garamond in their name, each being slightly different and owned by various licence holders. My favourite font, and the one I use most for body text in print books, is called EB Garamond. It is the copyright of Georg A. Duffner, and licensed under the SIL Open Font License, and free to use for commercial purposes.&lt;/p&gt;
+
+&lt;p&gt;As you might have gleaned, font licensing is so complicated that it could be described as a ‘labyrinthine nightmare’.&lt;/p&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">All fonts are subject to a license of some sort; even ‘free’ fonts.</summary></entry><entry><title type="html">Update to previous post</title><link href="http://localhost:4000/Blog/2023/07/11/Update-to-previous-post.html" rel="alternate" type="text/html" title="Update to previous post" /><published>2023-07-11T00:00:00+01:00</published><updated>2023-07-11T00:00:00+01:00</updated><id>http://localhost:4000/Blog/2023/07/11/Update%20to%20previous%20post</id><content type="html" xml:base="http://localhost:4000/Blog/2023/07/11/Update-to-previous-post.html">&lt;p&gt;My previous post was about the Novel Package on CTAN which was not working correctly.  However, this package is working again thanks to an update in May by Robert Allgeyer, the author. As the author says, this package is designed for for detective novels, science fiction, and short stories. The package can be downloaded in a zip file from GitHub. The easiest way to get to grips with the package is to read the page called ‘novel-documentation.html’. It is, without a doubt, the best package (LaTeX or otherwise) for typesetting novels.&lt;/p&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">My previous post was about the Novel Package on CTAN which was not working correctly. However, this package is working again thanks to an update in May by Robert Allgeyer, the author. As the author says, this package is designed for for detective novels, science fiction, and short stories. The package can be downloaded in a zip file from GitHub. The easiest way to get to grips with the package is to read the page called ‘novel-documentation.html’. It is, without a doubt, the best package (LaTeX or otherwise) for typesetting novels.</summary></entry><entry><title type="html">Novel Package</title><link href="http://localhost:4000/Blog/2021/08/23/Novel-Package.html" rel="alternate" type="text/html" title="Novel Package" /><published>2021-08-23T00:00:00+01:00</published><updated>2021-08-23T00:00:00+01:00</updated><id>http://localhost:4000/Blog/2021/08/23/Novel-Package</id><content type="html" xml:base="http://localhost:4000/Blog/2021/08/23/Novel-Package.html">&lt;p&gt;I typeset books and design book covers for indie authors. In the main, I use Scrivener and LaTeX for print books. Recently, I discovered the Novel Package on CTAN, and used it to typeset the paperback edition of &lt;em&gt;Richmond: Scenes in the Life of a Bow Street Runner&lt;/em&gt;. I was very pleased with the result, and decided to use the Novel package to typeset all my print books.&lt;/p&gt;
+
+&lt;p&gt;However, when I had nearly finished typesetting a second book, the package packed up on me with the message ‘novel.cls not found’.&lt;/p&gt;
+
+&lt;p&gt;On &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tex.stackexchange.com&lt;/code&gt; I read an exchange of emails in June 2017 regarding the same error message. In the email exchange, the author of the package explained:&lt;/p&gt;
+
+&lt;p&gt;“Due to some change in one or more other LaTeX packages, novel now crashes. This behavior is as of the last couple of weeks. Novel certainly did not crash prior to that. The crash is fundamental, in that the user’s document content does not matter. It is not due to any change in novel.. twice I have had to revise code, to compensate for changes in another package…It seems that the package(s) causing the crash are not necessary for novel’s purpose, but they are automatically loaded whether novel likes it or not; then novel crashes. I have requested that CTAN remove novel…It may be that some users will find that novel compiles, only to discover that it fails after TeX update.”&lt;/p&gt;
+
+&lt;p&gt;I assume that the package crashed on me following a Tex update.&lt;/p&gt;
+
+&lt;p&gt;As at the date of this blogpost the package is still on CTAN.&lt;/p&gt;
+
+&lt;p&gt;It seems to me that the package crashing due to other packages demonstrates a problem with LaTeX relying on packages from various developers. 
+So I installed Context which was developed for typesetting and does not rely on packages. I installed the LMTX version on a MacBook Air with the M1 chip.
+After installing LMTX I was about to delete the Novel package when I found that it was working again. I can only think that the installation of LMTX kickstarted the Novel package. Both LMTX and the Novel package use Lua.&lt;/p&gt;
+
+&lt;p&gt;So, if you use the Novel package and it crashed on you, try installing Context.&lt;/p&gt;
+
+&lt;p&gt;Charles Rozel&lt;/p&gt;
+
+&lt;p&gt;PS: I am learning Context, but it is a hard slog as there is no up-to-date manual.&lt;/p&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">I typeset books and design book covers for indie authors. In the main, I use Scrivener and LaTeX for print books. Recently, I discovered the Novel Package on CTAN, and used it to typeset the paperback edition of Richmond: Scenes in the Life of a Bow Street Runner. I was very pleased with the result, and decided to use the Novel package to typeset all my print books.</summary></entry><entry><title type="html">Richmond: Scenes in the Life of a Bow Street Runner</title><link href="http://localhost:4000/Blog/2021/07/19/Richmond.html" rel="alternate" type="text/html" title="Richmond: Scenes in the Life of a Bow Street Runner" /><published>2021-07-19T11:35:07+01:00</published><updated>2021-07-19T11:35:07+01:00</updated><id>http://localhost:4000/Blog/2021/07/19/Richmond</id><content type="html" xml:base="http://localhost:4000/Blog/2021/07/19/Richmond.html">&lt;h2 id=&quot;the-first-story-in-english-featuring-a-professional-detective&quot;&gt;The first story in English featuring a professional detective.&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Richmond or Scenes in the Life of a Bow Street Officer drawn up from his private memoranda&lt;/em&gt;, purports to be the biography of a Bow Street Runner. But was Richmond a real person? And, if Richmond is fictitious, who wrote the book? All that is certain is that Richmond, published in 1827 in London, is the first-ever story of a police detective in English.&lt;/p&gt;
+
+&lt;p&gt;Emily St. Aubert in &lt;em&gt;The Mysteries of Udolpho&lt;/em&gt; and Caleb Williams in &lt;em&gt;The Adventures of Caleb Williams&lt;/em&gt; can be considered to be the first characters in English fiction who act as sleuths by collecting evidence and making deductions from clues. Both these books were written in 1794 and both characters were amateurs as was Pelham in &lt;em&gt;The Adventures of a Gentleman&lt;/em&gt; written in 1828. These three characters were the first in a long line of amateur detectives; &lt;em&gt;Richmond&lt;/em&gt; is the first book about a professional detective. It was published in three leather-bound volumes.&lt;/p&gt;
+
+&lt;p&gt;The first volume recounts Tom Richmond’s early life. Always in search of adventure: he plays pranks on his neighbours; falls in love, and is sent away to boarding school; becomes a clerk in a counting-house in Liverpool; joins a troupe of actors, and ends up living with gypsies.&lt;/p&gt;
+
+&lt;p&gt;En route he meets Jem Bucks, an actor, and Wilton, a poetic graduate of Oxford University and gets into scrapes with both of them. He becomes a Bow Street Runner at the end of the first volume.&lt;/p&gt;
+
+&lt;p&gt;The second and third volumes are tales of Tom as a Bow Street Runner, and his marriage to Maria Cherry, a former courtesan.&lt;/p&gt;
+
+&lt;p&gt;The book was first published in 1827 by Henry Colburn of New Burlington Street, London and printed by A.J. Valpy of Red Lion Court, Fleet Street. It seems the book was not published again until 1976 when Dover Publications in the UK published a facsimile of the 1827 publication. The Dover edition is no longer available on the Dover website, and, I believe, is out of print, although second hand copies are available from booksellers. &lt;a href=&quot;https://thrillers.pub&quot;&gt;Quaystone Books&lt;/a&gt; is the only publisher of the book since the Dover edition.&lt;/p&gt;
+
+&lt;p&gt;The book was published originally in three volumes. Quaystone Books has amalgamated the three volumes into one volume. The chapters of the first volume are now numbered 1 to 21; the second volume is chapters 22 to 39, and the third volume is chapters 40 to 56.&lt;/p&gt;
+
+&lt;p&gt;So, the first question: was Tom Richmond a real person? Probably not. Only one person named Richmond ever worked with the Bow Street Runners during their 90-year existence from 1748 until 1839. He was a clerk called John Richmond who, in 1825, was dismissed because — to quote from the letter dismissing him — “he did not suffer a sense of duty or propriety to restrain the gratification of his lust, or his avarice”. Curiously, the first edition, published in 1827, has the following at the beginning of the book:
+&lt;em&gt;Mr. JOHN RICHMOND, late a clerk in the Police Office, Bow Street, is not, in any manner, directly or indirectly, connected with this work   — London, March 16, 1827.&lt;/em&gt;
+Presumably the statement is intended to give credence to the book being a true-life story. But other factors point to it being fiction. The same characters appear often. For example, Tom encounters Blore, a notorious highwayman, in a tavern in Lancashire, and Blore helps Tom escape the clutches of two constables who have arrested Tom, believing him to be an army deserter. Then Tom, on the road in Derbyshire, sees Blore hold up a phaeton, which happens to be driven by a Mr and Mrs Figgens, Tom’s old headmaster and his wife. Tom encounters Blore again, this time near London, when Tom is searching for a missing boy. Tom, not having seen Jem Bucks for some time, bumps into him in St James’s Park in London. Jem is dressed &lt;em&gt;“in a spruce blue coat and scarlet waistcoat”&lt;/em&gt;. This is the uniform worn — not by the Runners but — by the associated Horse Patrol, said to be the first uniformed police force in England. The Runners always wore civilian clothes, as do modern-day police detectives.&lt;/p&gt;
+
+&lt;p&gt;Tom then says: &lt;em&gt;“Through the influence of Wilton, I obtained a recommendation which was accepted; and I was admitted, sworn in, and commenced my duties among the law-breakers, as I shall record in the following chapters.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Tom’s eccentric and aristocratic friend, Wilton, might have had influence in high places, but even so, it is unlikely that Tom would have been appointed a Runner straightaway. Runners were usually appointed only after several years’ service with a patrol.&lt;/p&gt;
+
+&lt;p&gt;If &lt;em&gt;Richmond&lt;/em&gt; is fiction, who wrote the book? Two names are often mentioned; Thomas Skinner Surr and Thomas Gaspey, without any particular evidence of authorship by either. So, like the identity of &lt;em&gt;Jack the Ripper&lt;/em&gt;, the culprit is likely to remain anonymous.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Richmond&lt;/em&gt; is a good read. The plot of the &lt;em&gt;body in the pond&lt;/em&gt;  is a vintage crime puzzle. The description of the Reverend Doctor Cockspur, the ghost-ridden vicar, could have been spoken by any hard-boiled detective: ”a stranger entered with an air of impertinence which I did not much like. He was rather a little man, with a thin sharp face, small grey eyes half hid under a pair of shaggy eye-brows, but withal keen, greedy, and peering; a turn-up nose, tipped with a frost-bitten sort of red, to which there was a companion-spot of the same colour on each cheek about the breadth of a crown piece; the rest of his physiognomy being sallow, lank, and leathery, such as you might undertake to carve out of an old boot-top.”&lt;/p&gt;
+
+&lt;p&gt;The grammar, punctuation and spelling in the Quaystone edition are as in the original edition of 1827.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Richmond: Scenes in the Life of a Bow Street Runner&lt;/em&gt; is available from &lt;a href=&quot;https://www.amazon.co.uk/dp/B08YMLZ8YC&quot;&gt;Amazon&lt;/a&gt; as an ebook and as a paperback and a hardback.&lt;/p&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">The first story in English featuring a professional detective. Richmond or Scenes in the Life of a Bow Street Officer drawn up from his private memoranda, purports to be the biography of a Bow Street Runner. But was Richmond a real person? And, if Richmond is fictitious, who wrote the book? All that is certain is that Richmond, published in 1827 in London, is the first-ever story of a police detective in English.</summary></entry><entry><title type="html">Henry Goddard: Memoirs of a Bow Street Runner</title><link href="http://localhost:4000/Blog/2021/01/04/Henry-Goddard-Bow-Street-Runner.html" rel="alternate" type="text/html" title="Henry Goddard: Memoirs of a Bow Street Runner" /><published>2021-01-04T10:35:07+00:00</published><updated>2021-01-04T10:35:07+00:00</updated><id>http://localhost:4000/Blog/2021/01/04/Henry%20Goddard-Bow-Street-Runner</id><content type="html" xml:base="http://localhost:4000/Blog/2021/01/04/Henry-Goddard-Bow-Street-Runner.html">&lt;h5 id=&quot;the-memoirs-of-a-bow-street-runner-by-henry-goddard-were-written-by-him-in-the-late-victorian-era-but-not-published-until-1957-when-the-museum-press-in-london-printed-the-memoirs-in-hardback-with-a-foreword-by-the-eminent-historian-and-criminologist-patrick-pringle&quot;&gt;The Memoirs of a Bow Street Runner by Henry Goddard were written by him in the late-Victorian era, but not published until 1957, when the Museum Press in London printed the Memoirs in hardback, with a foreword by the eminent historian and criminologist, Patrick Pringle.&lt;/h5&gt;
+&lt;h5 id=&quot;quaystone-books-have-now-republished-the-memoirs-in-paperback-and-as-an-ebook-with-a-foreword-by-me-charles-rozel-which-is-reproduced-in-the-following-paragraphs&quot;&gt;Quaystone Books have now republished the Memoirs in paperback and as an eBook, with a foreword by me, Charles Rozel, which is reproduced in the following paragraphs.&lt;/h5&gt;
+&lt;hr /&gt;
+&lt;h5 id=&quot;bow-street-runners-roamed-the-mean-streets-of-london-detecting-crime-in-late-georgian-and-regency-times-in-fiction-the-runner-is-usually-an-ex-soldier-perhaps-wounded-physically-or-emotionally-from-fighting-the-french-or-possibly-the-upstart-united-states-of-america-a-handsome-square-jawed-enigma-he-is-as-romanticised-as-wyatt-earp-in-deadwood-a-sharpshooter-with-a-brace-of-flintlocks-skilled-with-a-blade-and-his-knuckles-he-moves-as-easily-beneath-the-glittering-candle-chandeliers-of-mayfair-as-in-the-flickering-tallow-shadows-of-the-seven-dials-apart-from-his-horse-his-romantic-interest-is-usually-an-aristocratic-beauty-possibly-a-spy-for-napoleon-or-the-americans-and-the-buxom-wench-who-serves-his-ale-in-the-pub-he-calls-home-within-a-gallows-eye-view-of-newgate&quot;&gt;Bow Street Runners roamed the mean streets of London detecting crime in late-Georgian and Regency times. In fiction the Runner is usually an ex-soldier, perhaps wounded, physically or emotionally, from fighting the French, or possibly the upstart United States of America. A handsome, square-jawed enigma, he is as romanticised as Wyatt Earp in Deadwood. A sharpshooter with a brace of flintlocks, skilled with a blade, and his knuckles; he moves as easily beneath the glittering candle-chandeliers of Mayfair as in the flickering tallow-shadows of the Seven Dials. Apart from his horse, his romantic interest is usually an aristocratic beauty (possibly a spy for Napoleon or the Americans) and the buxom wench who serves his ale in the pub he calls home, within a gallows-eye view of Newgate.&lt;/h5&gt;
+&lt;h5 id=&quot;in-1811-the-madness-of-king-george-iii-required-his-son-also-called-george-to-become-the-regent-the-de-facto-king-thus-the-regency-period-started-in-1811-and-ended-in-1820-when-george-iii-died-and-the-regent-became-george-iv-however-some-historians-and-aficionados-of-the-period-extend-the-regency-to-include-the-years-from-1820-to-1830-when-george-iv-reigned-he-died-in-1830&quot;&gt;In 1811 the madness of King George III required his son, also called George, to become the Regent (the de facto king). Thus, the Regency period started in 1811 and ended in 1820 when George III died and the Regent became George IV. However, some historians, and aficionados of the period, extend the Regency to include the years from 1820 to 1830 when George IV reigned. He died in 1830.&lt;/h5&gt;
+&lt;h5 id=&quot;the-bow-street-runners-were-founded-in-late-1748-or-early-1749-by-henry-fielding-a-lawyer-and-sometime-novelist-he-wrote-tom-jones-which-was-filmed-in-1963-winning-4-oscars-in-setting-up-the-runners-henry-fielding-was-assisted-by-his-brother-john-who-was-was-blind-the-fielding-brothers-lived-and-worked-from-number-4-bow-street-in-the-west-end-of-london-this-address-was-also-their-magistrates-court-from-where-they-dispensed-justice-prior-to-the-appointment-of-henry-fielding-magistrates-were-not-paid-officially-but-paid-themselves-from-the-fines-they-imposed-in-their-courts-they-were-referred-to-as-trading-magistrates-and-reputed-to-be-corrupt-henry-fielding-himself-said-as-much-when-referring-to-thomas-de-veil-his-predecessor-as-bow-street-magistrate&quot;&gt;The Bow Street Runners were founded, in late 1748 or early 1749 by Henry Fielding, a lawyer and sometime-novelist (he wrote Tom Jones: which was filmed in 1963 winning 4 Oscars). In setting up the Runners, Henry Fielding was assisted by his brother John, who was was blind. The Fielding Brothers lived and worked from number 4 Bow Street in the West End of London. This address was also their magistrates court from where they dispensed ‘justice’. Prior to the appointment of Henry Fielding, magistrates were not paid officially, but paid themselves from the fines they imposed in their courts. They were referred to as ‘trading magistrates’ and reputed to be corrupt. Henry Fielding himself said as much, when referring to Thomas De Veil, his predecessor as Bow Street magistrate.&lt;/h5&gt;
+&lt;h5 id=&quot;henry-fielding-died-in-1754-and-his-brother-john-known-as-the-blind-beakhe-could-recognise-hundreds-of-criminal-by-their-voicescarried-on-alone-until-he-died-in-1780-thereafter-a-succession-of-magistrates-continued-the-work-of-the-fielding-brothers-until-the-runners-were-disbanded-in-1839-ten-years-after-the-establishment-of-the-metropolitan-police-in-1829&quot;&gt;Henry Fielding died in 1754 and his brother, John, known as ‘the blind beak’—he could recognise hundreds of criminal by their voices—carried on alone until he died in 1780. Thereafter, a succession of magistrates continued the work of the Fielding brothers until the Runners were disbanded in 1839, ten years after the establishment of the Metropolitan Police in 1829.&lt;/h5&gt;
+&lt;h5 id=&quot;most-novelists-refer-to-these-detectives-as-bow-street-runners-but-this-is-a-misnomer-they-should-be-called-principal-officers-a-runner-was-a-messenger-or-the-person-responsible-for-escorting-a-prisoner-to-and-from-a-court-the-common-name-for-these-officersbow-street-runnerswas-inappropriate-and-they-considered-it-demeaning-but-the-name-stuck-and-i-will-use-runner-when-referring-to-principal-officers&quot;&gt;Most novelists refer to these detectives as ‘Bow Street Runners’ but this is a misnomer. They should be called Principal Officers. A runner was a messenger, or the person responsible for escorting a prisoner to and from a court. The common name for these Officers—Bow Street Runners—was inappropriate, and they considered it demeaning, but the name ‘stuck’ and I will use ‘Runner’ when referring to Principal Officers.&lt;/h5&gt;
+&lt;h5 id=&quot;funded-reluctantly-and-miserly-by-the-home-department-now-the-home-office-the-runners-are-considered-to-be-britains-first-organised-police-force-albeit-without-uniforms-and-small-in-number-throughout-their-existence-of-ninety-years-there-were-never-more-than-eleven-runners-at-bow-street-at-any-one-time&quot;&gt;Funded, reluctantly and miserly, by the Home Department (now the Home Office), the Runners are considered to be Britain’s first organised police force, albeit without uniforms and small in number. Throughout their existence of ninety years, there were never more than eleven Runners at Bow Street at any one time.&lt;/h5&gt;
+&lt;h5 id=&quot;however-the-runners-were-augmented-by-patrols&quot;&gt;However, the Runners were augmented by Patrols.&lt;/h5&gt;
+&lt;h5 id=&quot;an-eight-man-horse-patrol-was-inaugurated-in-about-1763-but-discontinued-within-a-few-years-because-it-was-too-expensive-for-the-home-department-it-was-not-until-1805-that-a-horse-patrol-was-re-established-this-time-in-a-uniform-of-scarlet-waistcoats-and-blue-trousers-this-horse-patrol-is-regarded-by-some-historians-as-the-first-uniformed-police-force-in-england-it-was-absorbed-into-the-metropolitan-police-in-1836&quot;&gt;An eight-man Horse Patrol was inaugurated in about 1763, but discontinued within a few years because it was too expensive for the Home Department. It was not until 1805 that a Horse Patrol was re-established, this time in a uniform of scarlet waistcoats and blue trousers. This Horse Patrol is regarded by some historians as the first uniformed police force in England; it was absorbed into the Metropolitan Police in 1836.&lt;/h5&gt;
+&lt;h5 id=&quot;occasional-foot-patrols-started-in-about-1765-and-were-discontinued-within-a-few-years-a-regular-night-patrol-on-foot-was-inaugurated-in-1790-and-continued-until-it-too-was-absorbed-into-the-metropolitan-police&quot;&gt;Occasional Foot Patrols started in about 1765 and were discontinued within a few years. A regular Night Patrol on foot was inaugurated in 1790 and continued until it too was absorbed into the Metropolitan Police.&lt;/h5&gt;
+&lt;h5 id=&quot;from-1821-a-patrol-whose-official-name-was-the-dismounted-horse-patrol-as-its-members-were-on-foot-operated-during-the-day-until-also-absorbed-into-the-metropolitan-police&quot;&gt;From 1821 a Patrol, whose official name was the Dismounted Horse Patrol as its members were ‘on foot’, operated during the day, until also absorbed into the Metropolitan Police.&lt;/h5&gt;
+&lt;h5 id=&quot;runners-were-often-chosen-and-appointed-from-a-patrol-and-were-sometimes-assisted-in-their-investigations-by-members-of-patrols-for-example-patrol-constables-helped-the-runners-deactivate-the-cato-street-conspiracy-an-attempt-to-murder-the-prime-minister-and-his-cabinet-in-1820&quot;&gt;Runners were often chosen and appointed from a Patrol, and were sometimes assisted in their investigations by members of Patrols: for example, Patrol Constables helped the Runners deactivate the Cato Street Conspiracy, an attempt to murder the prime minister and his Cabinet in 1820.&lt;/h5&gt;
+&lt;h5 id=&quot;the-premises-in-bow-street-from-which-the-runners-had-operated-since-the-fielding-brothers-was-know-as-a-public-office-in-1792-the-government-set-up-seven-more-public-offices-in-london-to-be-run-along-the-same-lines-as-bow-street-one-of-these-new-public-offices-was-at-great-marlborough-street-in-the-west-end-of-london&quot;&gt;The premises in Bow Street, from which the Runners had operated since the Fielding Brothers, was know as a Public Office. In 1792, the government set up seven more Public Offices in London to be run along the same lines as Bow Street. One of these new Public Offices was at Great Marlborough Street in the West End of London.&lt;/h5&gt;
+&lt;h5 id=&quot;henry-goddard-whose-memoirs-these-are-was-employed-at-bow-street-as-a-patrol-constable-from-1824-until-he-was-promoted-to-be-a-runner-principal-officer-at-great-marlborough-street-in-1827-and-remained-there-until-he-transferred-to-bow-street-as-a-runner-in-1834-he-remained-a-runner-until-they-were-disbanded-in-1839-he-died-in-1883&quot;&gt;Henry Goddard, whose memoirs these are, was employed at Bow Street as a Patrol Constable from 1824 until he was promoted to be a Runner (Principal Officer) at Great Marlborough Street in 1827 and remained there until he transferred to Bow Street as a Runner in 1834. He remained a Runner until they were disbanded in 1839. He died in 1883.&lt;/h5&gt;
+&lt;hr /&gt;
+&lt;h5 id=&quot;the-memoirs-are-available-to-purchase-on-amazon-and-google-play&quot;&gt;The Memoirs are available to purchase on &lt;a href=&quot;https://www.amazon.co.uk/Henry-Goddard-Memoirs-Street-Runner/dp/B08QS6KTWH&quot;&gt;Amazon&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/books/details/Henry_Goddard_Henry_Goddard?id=zv8OEAAAQBAJ&amp;amp;hl=en&quot;&gt;Google Play&lt;/a&gt;.&lt;/h5&gt;
+
+&lt;!-- Google tag (gtag.js) --&gt;
+&lt;script async=&quot;&quot; src=&quot;https://www.googletagmanager.com/gtag/js?id=G-T9FP421H4D&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+
+  gtag(&apos;config&apos;, &apos;G-T9FP421H4D&apos;);
+&lt;/script&gt;</content><author><name></name></author><summary type="html">The Memoirs of a Bow Street Runner by Henry Goddard were written by him in the late-Victorian era, but not published until 1957, when the Museum Press in London printed the Memoirs in hardback, with a foreword by the eminent historian and criminologist, Patrick Pringle. Quaystone Books have now republished the Memoirs in paperback and as an eBook, with a foreword by me, Charles Rozel, which is reproduced in the following paragraphs. Bow Street Runners roamed the mean streets of London detecting crime in late-Georgian and Regency times. In fiction the Runner is usually an ex-soldier, perhaps wounded, physically or emotionally, from fighting the French, or possibly the upstart United States of America. A handsome, square-jawed enigma, he is as romanticised as Wyatt Earp in Deadwood. A sharpshooter with a brace of flintlocks, skilled with a blade, and his knuckles; he moves as easily beneath the glittering candle-chandeliers of Mayfair as in the flickering tallow-shadows of the Seven Dials. Apart from his horse, his romantic interest is usually an aristocratic beauty (possibly a spy for Napoleon or the Americans) and the buxom wench who serves his ale in the pub he calls home, within a gallows-eye view of Newgate. In 1811 the madness of King George III required his son, also called George, to become the Regent (the de facto king). Thus, the Regency period started in 1811 and ended in 1820 when George III died and the Regent became George IV. However, some historians, and aficionados of the period, extend the Regency to include the years from 1820 to 1830 when George IV reigned. He died in 1830. The Bow Street Runners were founded, in late 1748 or early 1749 by Henry Fielding, a lawyer and sometime-novelist (he wrote Tom Jones: which was filmed in 1963 winning 4 Oscars). In setting up the Runners, Henry Fielding was assisted by his brother John, who was was blind. The Fielding Brothers lived and worked from number 4 Bow Street in the West End of London. This address was also their magistrates court from where they dispensed ‘justice’. Prior to the appointment of Henry Fielding, magistrates were not paid officially, but paid themselves from the fines they imposed in their courts. They were referred to as ‘trading magistrates’ and reputed to be corrupt. Henry Fielding himself said as much, when referring to Thomas De Veil, his predecessor as Bow Street magistrate. Henry Fielding died in 1754 and his brother, John, known as ‘the blind beak’—he could recognise hundreds of criminal by their voices—carried on alone until he died in 1780. Thereafter, a succession of magistrates continued the work of the Fielding brothers until the Runners were disbanded in 1839, ten years after the establishment of the Metropolitan Police in 1829. Most novelists refer to these detectives as ‘Bow Street Runners’ but this is a misnomer. They should be called Principal Officers. A runner was a messenger, or the person responsible for escorting a prisoner to and from a court. The common name for these Officers—Bow Street Runners—was inappropriate, and they considered it demeaning, but the name ‘stuck’ and I will use ‘Runner’ when referring to Principal Officers. Funded, reluctantly and miserly, by the Home Department (now the Home Office), the Runners are considered to be Britain’s first organised police force, albeit without uniforms and small in number. Throughout their existence of ninety years, there were never more than eleven Runners at Bow Street at any one time. However, the Runners were augmented by Patrols. An eight-man Horse Patrol was inaugurated in about 1763, but discontinued within a few years because it was too expensive for the Home Department. It was not until 1805 that a Horse Patrol was re-established, this time in a uniform of scarlet waistcoats and blue trousers. This Horse Patrol is regarded by some historians as the first uniformed police force in England; it was absorbed into the Metropolitan Police in 1836. Occasional Foot Patrols started in about 1765 and were discontinued within a few years. A regular Night Patrol on foot was inaugurated in 1790 and continued until it too was absorbed into the Metropolitan Police. From 1821 a Patrol, whose official name was the Dismounted Horse Patrol as its members were ‘on foot’, operated during the day, until also absorbed into the Metropolitan Police. Runners were often chosen and appointed from a Patrol, and were sometimes assisted in their investigations by members of Patrols: for example, Patrol Constables helped the Runners deactivate the Cato Street Conspiracy, an attempt to murder the prime minister and his Cabinet in 1820. The premises in Bow Street, from which the Runners had operated since the Fielding Brothers, was know as a Public Office. In 1792, the government set up seven more Public Offices in London to be run along the same lines as Bow Street. One of these new Public Offices was at Great Marlborough Street in the West End of London. Henry Goddard, whose memoirs these are, was employed at Bow Street as a Patrol Constable from 1824 until he was promoted to be a Runner (Principal Officer) at Great Marlborough Street in 1827 and remained there until he transferred to Bow Street as a Runner in 1834. He remained a Runner until they were disbanded in 1839. He died in 1883. The Memoirs are available to purchase on Amazon and Google Play.</summary></entry></feed>
